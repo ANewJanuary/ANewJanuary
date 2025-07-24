@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Artin.
 - 👀 I’m interested in all things programming, game development and engineering.
-- 🌱 I’m currently messing about with linux and small programming side projects.
+- 🌱 I’m currently learning linux and doing small programming side projects.
 
 <!---
 ArtinTheArrogant/ArtinTheArrogant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
